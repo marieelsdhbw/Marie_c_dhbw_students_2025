@@ -17,5 +17,6 @@ int main()
     float newValue = addValue(myFloat, userInput);
     printMemoryAddressAndValue(&newValue);
 
+    printf("Hallo");
     return 0;
 }
